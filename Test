@@ -1,0 +1,10 @@
+void Soundex( const string & input, string & output ) {
+   for ( int i = 0; i < input.length(); i++ ) {
+       char c = input[i];        // get character from input
+       if ( c === .... ) {       // if some decision
+            output += 'X';       // add some character to output
+       }
+       else if ( ..... )  {       // more tests
+       }
+   }
+}
